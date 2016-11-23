@@ -9,5 +9,3 @@
   <li>npm install --save</li>
   <li>npm start</li>
   <li>localhost:3000</li>
-
-# react-course-directory
