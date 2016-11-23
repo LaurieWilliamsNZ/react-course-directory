@@ -1,12 +1,13 @@
-  <h1>Single Page React.js course-directory</h1>
+  # react-course-directory
+  <h2>Single Page React.js course-directory</h2>
 
   A demo directory for courses and teachers using React Router.
 
-  <h1> Installation instructions</h1>
+  <h2> Installation instructions</h2>
 
-  git clone https://github.com/LaurieWilliamsNZ/react-course-directory.git
-  npm install --save
-  npm start 
-  localhost:3000
+  <li>git clone https://github.com/LaurieWilliamsNZ/react-course-directory.git</li>
+  <li>npm install --save</li>
+  <li>npm start</li>
+  <li>localhost:3000</li>
 
 # react-course-directory
